@@ -1,0 +1,9 @@
+git add  archivo -- agregar
+
+git commint -m "comentario" -- guardar localmente y comentariar  
+git puch origin nombre de la rama -- subir subir a la nube
+git pull origin nombre de la rama --  descargar de la nube 
+
+git branch -- muestra las ramas del proyecto
+git checkout nombre de la rama -- moverse a una rama
+git checkout -b nombre de la rama -- crear rama y moverme hacia ella
